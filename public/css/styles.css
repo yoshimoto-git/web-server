@@ -1,0 +1,15 @@
+h1 {
+  color:chartreuse;
+}
+
+input {
+  padding: 10px;
+  border: 1px solid gray;
+}
+
+button {
+  padding: 8px;
+  border: 1px solid gold;
+  color: white;
+  background-color: red;
+}
